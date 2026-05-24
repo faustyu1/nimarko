@@ -1,0 +1,326 @@
+{
+	"info": {
+		"name": "Achievements Plugin API",
+		"description": "Коллекция запросов для взаимодействия с API плагина достижений и огоньков.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Auth",
+			"item": [
+				{
+					"name": "Register User",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/auth/register?user_id={{userId}}",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"auth",
+								"register"
+							],
+							"query": [
+								{
+									"key": "user_id",
+									"value": "{{userId}}"
+								}
+							]
+						},
+						"description": "Регистрация пользователя и получение токена авторизации."
+					}
+				}
+			]
+		},
+		{
+			"name": "User Stats",
+			"item": [
+				{
+					"name": "Get Stats",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "X-Auth-Token",
+								"value": "{{token}}",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{baseUrl}}/user/{{userId}}",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"user",
+								"{{userId}}"
+							]
+						}
+					}
+				},
+				{
+					"name": "Sync Stats",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "X-Auth-Token",
+								"value": "{{token}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"user_id\": {{userId}},\n    \"stats\": {\n        \"messages_sent\": 100,\n        \"photos_sent\": 10\n    },\n    \"unlocked\": [\"first_message\", \"getting_started\"],\n    \"timestamp\": 1700000000\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/sync",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"sync"
+							]
+						}
+					}
+				},
+				{
+					"name": "Delete All Progress",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "X-Auth-Token",
+								"value": "{{token}}",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{baseUrl}}/user/{{userId}}/stats",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"user",
+								"{{userId}}",
+								"stats"
+							]
+						}
+					}
+				}
+			]
+		},
+		{
+			"name": "Streaks (Огоньки)",
+			"item": [
+				{
+					"name": "Get All Streaks",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "X-Auth-Token",
+								"value": "{{token}}",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{baseUrl}}/streaks/{{userId}}",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"streaks",
+								"{{userId}}"
+							]
+						}
+					}
+				},
+				{
+					"name": "Streak Message Update",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "X-Auth-Token",
+								"value": "{{token}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"user_id\": {{userId}},\n    \"partner_id\": 12345678,\n    \"partner_name\": \"Name\",\n    \"date\": \"2024-01-01\",\n    \"direction\": \"outgoing\",\n    \"timestamp\": 1700000000\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/streak/message",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"streak",
+								"message"
+							]
+						}
+					}
+				},
+				{
+					"name": "Restore Streak",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "X-Auth-Token",
+								"value": "{{token}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"user_id\": {{userId}},\n    \"partner_id\": 12345678,\n    \"timestamp\": 1700000000\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/streak/restore",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"streak",
+								"restore"
+							]
+						}
+					}
+				},
+				{
+					"name": "Delete Specific Streak",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "X-Auth-Token",
+								"value": "{{token}}",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{baseUrl}}/streak/{{userId}}/12345678",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"streak",
+								"{{userId}}",
+								"12345678"
+							]
+						}
+					}
+				}
+			]
+		},
+		{
+			"name": "Badges & External",
+			"item": [
+				{
+					"name": "Get Global Badges",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://badges.ettacent.dev/api/v1/badges",
+							"protocol": "https",
+							"host": [
+								"badges",
+								"ettacent",
+								"dev"
+							],
+							"path": [
+								"api",
+								"v1",
+								"badges"
+							]
+						}
+					}
+				},
+				{
+					"name": "Check Update",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://update.ettacent.dev/api/plugin-version?id=achievements",
+							"protocol": "https",
+							"host": [
+								"update",
+								"ettacent",
+								"dev"
+							],
+							"path": [
+								"api",
+								"plugin-version"
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "achievements"
+								}
+							]
+						}
+					}
+				}
+			]
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "baseUrl",
+			"value": "https://achievements.ettacent.dev/api/v1",
+			"type": "string"
+		},
+		{
+			"key": "userId",
+			"value": "YOUR_TELEGRAM_ID",
+			"type": "string"
+		},
+		{
+			"key": "token",
+			"value": "YOUR_AUTH_TOKEN",
+			"type": "string"
+		}
+	]
+}

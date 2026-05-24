@@ -1,0 +1,4468 @@
+{
+    "success": true,
+    "streaks": {
+        "6328952269": {
+            "partner_id": 6328952269,
+            "partner_name": "Анонимные сообщения 📩",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-03-01",
+                "2026-02-26",
+                "2026-02-14",
+                "2026-02-05",
+                "2026-02-04",
+                "2026-02-03"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7817894730": {
+            "partner_id": 7817894730,
+            "partner_name": "InvisVPN bot",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-02-27",
+                "2026-02-13"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8537171468": {
+            "partner_id": 8537171468,
+            "partner_name": "Nimarko • Unblock Telegram",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-03-31",
+                "2026-03-30",
+                "2026-03-01",
+                "2026-02-14"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7481296372": {
+            "partner_id": 7481296372,
+            "partner_name": "Даня",
+            "is_active": true,
+            "streak_days": 11,
+            "started_at": "2026-03-08",
+            "my_message_dates": [
+                "2026-05-14",
+                "2026-05-13",
+                "2026-05-12",
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-09",
+                "2026-05-08",
+                "2026-05-07",
+                "2026-05-06",
+                "2026-05-05",
+                "2026-05-04",
+                "2026-03-31",
+                "2026-03-30",
+                "2026-03-09",
+                "2026-03-08",
+                "2026-03-07",
+                "2026-03-01",
+                "2026-02-27",
+                "2026-02-26",
+                "2026-02-25",
+                "2026-02-20",
+                "2026-02-14",
+                "2026-02-13",
+                "2026-02-12",
+                "2026-02-11",
+                "2026-02-06",
+                "2026-02-05",
+                "2026-02-04",
+                "2026-02-03",
+                "2026-02-02"
+            ],
+            "partner_message_dates": [
+                "2026-05-14",
+                "2026-05-13",
+                "2026-05-12",
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-09",
+                "2026-05-08",
+                "2026-05-07",
+                "2026-05-06",
+                "2026-05-05",
+                "2026-05-04",
+                "2026-03-30",
+                "2026-03-08",
+                "2026-03-07",
+                "2026-03-01",
+                "2026-02-28",
+                "2026-02-27",
+                "2026-02-26",
+                "2026-02-25",
+                "2026-02-20",
+                "2026-02-14",
+                "2026-02-13",
+                "2026-02-12",
+                "2026-02-11",
+                "2026-02-06",
+                "2026-02-05",
+                "2026-02-04",
+                "2026-02-03",
+                "2026-02-02"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 1,
+            "last_restore_month": "2026-05"
+        },
+        "8593018469": {
+            "partner_id": 8593018469,
+            "partner_name": "NimarkoBanners_Bot",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-14",
+                "2026-05-13",
+                "2026-05-12",
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-08",
+                "2026-05-07",
+                "2026-05-05",
+                "2026-05-04",
+                "2026-03-31",
+                "2026-03-30",
+                "2026-03-09",
+                "2026-03-08",
+                "2026-03-07",
+                "2026-03-01",
+                "2026-02-28",
+                "2026-02-27",
+                "2026-02-26",
+                "2026-02-25",
+                "2026-02-14"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8065798434": {
+            "partner_id": 8065798434,
+            "partner_name": "Eternity Cloud",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-09",
+                "2026-03-01"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8257716785": {
+            "partner_id": 8257716785,
+            "partner_name": "NimarkoAI | Claude",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-03-08",
+                "2026-03-07",
+                "2026-03-01",
+                "2026-02-27",
+                "2026-02-26"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7898709211": {
+            "partner_id": 7898709211,
+            "partner_name": "Nimarko",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-06",
+                "2026-05-04",
+                "2026-03-07",
+                "2026-03-01",
+                "2026-02-11",
+                "2026-02-05",
+                "2026-02-02"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "5745414506": {
+            "partner_id": 5745414506,
+            "partner_name": "Непубличные тарифы - T2, Мегафон, YOTA, МТС, Билайн",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7991272391": {
+            "partner_id": 7991272391,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-03-02",
+                "2026-02-02"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "5245209797": {
+            "partner_id": 5245209797,
+            "partner_name": "spon",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-10",
+                "2026-05-07",
+                "2026-03-13",
+                "2026-03-12",
+                "2026-03-03"
+            ],
+            "partner_message_dates": [
+                "2026-05-07",
+                "2026-03-12",
+                "2026-03-03",
+                "2026-03-01"
+            ],
+            "warned": false,
+            "expired_at": "2026-03-05",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1057715170": {
+            "partner_id": 1057715170,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-03-04"
+            ],
+            "partner_message_dates": [
+                "2026-03-04"
+            ],
+            "warned": false,
+            "expired_at": "2026-03-07",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "677804244": {
+            "partner_id": 677804244,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-03-05"
+            ],
+            "partner_message_dates": [
+                "2026-03-05"
+            ],
+            "warned": false,
+            "expired_at": "2026-03-07",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1693609907": {
+            "partner_id": 1693609907,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6841069738": {
+            "partner_id": 6841069738,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-03-05"
+            ],
+            "partner_message_dates": [
+                "2026-03-07",
+                "2026-03-05",
+                "2026-02-27",
+                "2026-02-26",
+                "2026-02-16",
+                "2026-02-14",
+                "2026-02-13",
+                "2026-02-12",
+                "2026-02-04"
+            ],
+            "warned": false,
+            "expired_at": "2026-03-07",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "840584601": {
+            "partner_id": 840584601,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-03-05"
+            ],
+            "partner_message_dates": [
+                "2026-03-05"
+            ],
+            "warned": false,
+            "expired_at": "2026-03-07",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6459843316": {
+            "partner_id": 6459843316,
+            "partner_name": "FuKuム",
+            "is_active": false,
+            "streak_days": 2,
+            "started_at": "2026-04-17",
+            "my_message_dates": [
+                "2026-05-11",
+                "2026-05-10",
+                "2026-04-17",
+                "2026-04-16",
+                "2026-03-30",
+                "2026-03-18",
+                "2026-03-17",
+                "2026-03-13",
+                "2026-03-07"
+            ],
+            "partner_message_dates": [
+                "2026-05-11",
+                "2026-05-10",
+                "2026-04-25",
+                "2026-04-24",
+                "2026-04-20",
+                "2026-04-18",
+                "2026-04-17",
+                "2026-04-16",
+                "2026-04-07",
+                "2026-04-01",
+                "2026-03-30",
+                "2026-03-24",
+                "2026-03-22",
+                "2026-03-19",
+                "2026-03-18",
+                "2026-03-16",
+                "2026-03-13",
+                "2026-03-07"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-13",
+            "can_restore": false,
+            "restore_count": 1,
+            "last_restore_month": "2026-03"
+        },
+        "8136793598": {
+            "partner_id": 8136793598,
+            "partner_name": "Pluggy",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-03-08",
+                "2026-03-07",
+                "2026-02-27",
+                "2026-02-26",
+                "2026-02-25"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "140805804": {
+            "partner_id": 140805804,
+            "partner_name": "User 140805804",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7826705810": {
+            "partner_id": 7826705810,
+            "partner_name": "NFT GIFT Calculator",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-07",
+                "2026-05-06",
+                "2026-05-04",
+                "2026-03-07",
+                "2026-02-13"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1057438173": {
+            "partner_id": 1057438173,
+            "partner_name": "Кирюша",
+            "is_active": false,
+            "streak_days": 8,
+            "started_at": "2026-03-08",
+            "my_message_dates": [
+                "2026-05-12",
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-09",
+                "2026-05-08",
+                "2026-05-07",
+                "2026-05-06",
+                "2026-05-05",
+                "2026-05-04",
+                "2026-03-31",
+                "2026-03-30",
+                "2026-03-09",
+                "2026-03-08",
+                "2026-03-07",
+                "2026-02-27",
+                "2026-02-14",
+                "2026-02-13",
+                "2026-02-12",
+                "2026-02-05",
+                "2026-02-04",
+                "2026-02-03"
+            ],
+            "partner_message_dates": [
+                "2026-05-13",
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-09",
+                "2026-05-08",
+                "2026-05-07",
+                "2026-05-06",
+                "2026-05-05",
+                "2026-05-04",
+                "2026-03-30",
+                "2026-03-08",
+                "2026-03-07",
+                "2026-02-27",
+                "2026-02-25",
+                "2026-02-14",
+                "2026-02-13",
+                "2026-02-12",
+                "2026-02-05",
+                "2026-02-04",
+                "2026-02-03"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-13",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1451210105": {
+            "partner_id": 1451210105,
+            "partner_name": "☦️|🇷🇺гулъ🇷🇸|☦️",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-13",
+                "2026-05-05",
+                "2026-02-26",
+                "2026-02-13",
+                "2026-02-08",
+                "2026-02-02"
+            ],
+            "partner_message_dates": [
+                "2026-05-07",
+                "2026-05-05",
+                "2026-02-13",
+                "2026-02-08",
+                "2026-02-02"
+            ],
+            "warned": false,
+            "expired_at": "2026-03-08",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1122226398": {
+            "partner_id": 1122226398,
+            "partner_name": "apvur",
+            "is_active": false,
+            "streak_days": 4,
+            "started_at": "2026-05-05",
+            "my_message_dates": [
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-09",
+                "2026-05-08",
+                "2026-05-05",
+                "2026-05-04",
+                "2026-03-07",
+                "2026-02-21"
+            ],
+            "partner_message_dates": [
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-09",
+                "2026-05-08",
+                "2026-05-06",
+                "2026-05-05",
+                "2026-05-04",
+                "2026-02-21"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-13",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7764164059": {
+            "partner_id": 7764164059,
+            "partner_name": "Fix Price VPN Обход Белых списков",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-02-25"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8485256189": {
+            "partner_id": 8485256189,
+            "partner_name": "NimarkoVPN",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-14",
+                "2026-05-13",
+                "2026-05-12",
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-09",
+                "2026-05-08",
+                "2026-05-07",
+                "2026-05-06",
+                "2026-05-05",
+                "2026-05-04",
+                "2026-03-30",
+                "2026-03-09",
+                "2026-03-08",
+                "2026-03-07",
+                "2026-02-28",
+                "2026-02-27",
+                "2026-02-26",
+                "2026-02-25",
+                "2026-02-14",
+                "2026-02-13",
+                "2026-02-11",
+                "2026-02-05",
+                "2026-02-04",
+                "2026-02-03",
+                "2026-02-02"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1166240308": {
+            "partner_id": 1166240308,
+            "partner_name": "l1Cen777",
+            "is_active": true,
+            "streak_days": 11,
+            "started_at": "2026-03-08",
+            "my_message_dates": [
+                "2026-05-14",
+                "2026-05-13",
+                "2026-05-12",
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-09",
+                "2026-05-08",
+                "2026-05-07",
+                "2026-05-06",
+                "2026-05-05",
+                "2026-05-04",
+                "2026-03-30",
+                "2026-03-29",
+                "2026-03-28",
+                "2026-03-09",
+                "2026-03-08",
+                "2026-03-07",
+                "2026-02-27",
+                "2026-02-25"
+            ],
+            "partner_message_dates": [
+                "2026-05-14",
+                "2026-05-13",
+                "2026-05-12",
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-09",
+                "2026-05-08",
+                "2026-05-07",
+                "2026-05-06",
+                "2026-05-05",
+                "2026-05-04",
+                "2026-03-30",
+                "2026-03-29",
+                "2026-03-28",
+                "2026-03-09",
+                "2026-03-08",
+                "2026-03-07",
+                "2026-02-27",
+                "2026-02-25"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 1,
+            "last_restore_month": "2026-03"
+        },
+        "884052461": {
+            "partner_id": 884052461,
+            "partner_name": "гнидуевㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-03-07"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "890101900": {
+            "partner_id": 890101900,
+            "partner_name": "Фарид",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-07",
+                "2026-03-30",
+                "2026-03-09",
+                "2026-03-08",
+                "2026-03-07",
+                "2026-02-10"
+            ],
+            "partner_message_dates": [
+                "2026-05-13",
+                "2026-05-07",
+                "2026-03-09",
+                "2026-03-07",
+                "2026-02-11",
+                "2026-02-10"
+            ],
+            "warned": false,
+            "expired_at": "2026-03-09",
+            "can_restore": false,
+            "restore_count": 1,
+            "last_restore_month": "2026-03"
+        },
+        "8056552065": {
+            "partner_id": 8056552065,
+            "partner_name": "Telegram Stars & Premium",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-03-08",
+                "2026-03-07",
+                "2026-02-14"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7746540087": {
+            "partner_id": 7746540087,
+            "partner_name": "Flower Shop",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-03-07"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "777000": {
+            "partner_id": 777000,
+            "partner_name": "Telegram",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-06",
+                "2026-02-14"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "5826539357": {
+            "partner_id": 5826539357,
+            "partner_name": "Шайни А",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "215096609": {
+            "partner_id": 215096609,
+            "partner_name": "VitalyBiz",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-03-09",
+                "2026-03-08",
+                "2026-02-28"
+            ],
+            "partner_message_dates": [
+                "2026-03-08"
+            ],
+            "warned": false,
+            "expired_at": "2026-03-30",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "794823214": {
+            "partner_id": 794823214,
+            "partner_name": "Aryn",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-02-03",
+                "2026-02-02"
+            ],
+            "partner_message_dates": [
+                "2026-03-08"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8079608100": {
+            "partner_id": 8079608100,
+            "partner_name": "ᴄʏɴᴜᴢɪ | ʜᴇ / ʜɪs",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-03-08"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1023109334": {
+            "partner_id": 1023109334,
+            "partner_name": "димас",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8523777684": {
+            "partner_id": 8523777684,
+            "partner_name": ".",
+            "is_active": false,
+            "streak_days": 2,
+            "started_at": "2026-03-09",
+            "my_message_dates": [
+                "2026-05-11",
+                "2026-05-10",
+                "2026-03-09",
+                "2026-03-08"
+            ],
+            "partner_message_dates": [
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-09",
+                "2026-03-09",
+                "2026-03-08"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-13",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "5560934683": {
+            "partner_id": 5560934683,
+            "partner_name": "Tic-Tac-Toe: game on Telegram | play tic-tac-toe",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-02-26"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7831761208": {
+            "partner_id": 7831761208,
+            "partner_name": "🚀 DHOSTING | VPS 🚀 WORK 24/7",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1980975062": {
+            "partner_id": 1980975062,
+            "partner_name": "LosslessRobot | FLAC Music Archive",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-08"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8006472611": {
+            "partner_id": 8006472611,
+            "partner_name": "Sworkle VPN",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7343128099": {
+            "partner_id": 7343128099,
+            "partner_name": "📨 Greedy SMS",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-11",
+                "2026-05-09",
+                "2026-05-08",
+                "2026-05-07",
+                "2026-05-06",
+                "2026-05-05",
+                "2026-05-04",
+                "2026-03-09",
+                "2026-02-27",
+                "2026-02-26",
+                "2026-02-25",
+                "2026-02-14",
+                "2026-02-11",
+                "2026-02-05",
+                "2026-02-04",
+                "2026-02-03"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1276162048": {
+            "partner_id": 1276162048,
+            "partner_name": "Виктор",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-04-13",
+                "2026-03-19",
+                "2026-03-09"
+            ],
+            "partner_message_dates": [
+                "2026-04-20",
+                "2026-04-16",
+                "2026-04-14",
+                "2026-04-13",
+                "2026-04-11",
+                "2026-04-09",
+                "2026-04-02",
+                "2026-03-26",
+                "2026-03-25",
+                "2026-03-21",
+                "2026-03-19",
+                "2026-03-10",
+                "2026-03-09",
+                "2026-03-08"
+            ],
+            "warned": false,
+            "expired_at": "2026-03-11",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8116883761": {
+            "partner_id": 8116883761,
+            "partner_name": "Разрывчик",
+            "is_active": false,
+            "streak_days": 3,
+            "started_at": "2026-05-09",
+            "my_message_dates": [
+                "2026-05-14",
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-09",
+                "2026-02-28",
+                "2026-02-27",
+                "2026-02-26",
+                "2026-02-25",
+                "2026-02-11"
+            ],
+            "partner_message_dates": [
+                "2026-05-13",
+                "2026-05-12",
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-09",
+                "2026-05-08",
+                "2026-05-07",
+                "2026-05-06",
+                "2026-05-05",
+                "2026-02-27",
+                "2026-02-26",
+                "2026-02-25",
+                "2026-02-14"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-13",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1297990206": {
+            "partner_id": 1297990206,
+            "partner_name": "Артём",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-08",
+                "2026-05-07",
+                "2026-05-06",
+                "2026-03-09"
+            ],
+            "partner_message_dates": [
+                "2026-05-08",
+                "2026-03-09"
+            ],
+            "warned": false,
+            "expired_at": "2026-03-30",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1641024044": {
+            "partner_id": 1641024044,
+            "partner_name": "Роман Игоревич",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-08",
+                "2026-05-04",
+                "2026-02-27",
+                "2026-02-11"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8504490805": {
+            "partner_id": 8504490805,
+            "partner_name": "Nimarko • H2 | Vless Shop",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-09",
+                "2026-05-08",
+                "2026-05-06",
+                "2026-05-04",
+                "2026-03-30",
+                "2026-03-09",
+                "2026-02-26",
+                "2026-02-25",
+                "2026-02-04"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1282540315": {
+            "partner_id": 1282540315,
+            "partner_name": "Владислав Ополев",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-03-09",
+                "2026-02-14",
+                "2026-02-12",
+                "2026-02-11"
+            ],
+            "partner_message_dates": [
+                "2026-02-14"
+            ],
+            "warned": false,
+            "expired_at": "2026-03-09",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "962789106": {
+            "partner_id": 962789106,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-03-10"
+            ],
+            "partner_message_dates": [
+                "2026-03-10"
+            ],
+            "warned": false,
+            "expired_at": "2026-03-30",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1917095080": {
+            "partner_id": 1917095080,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-03-11"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "5407546317": {
+            "partner_id": 5407546317,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-03-17",
+                "2026-03-13"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "809353383": {
+            "partner_id": 809353383,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-03-17"
+            ],
+            "partner_message_dates": [
+                "2026-04-03",
+                "2026-04-02",
+                "2026-03-17"
+            ],
+            "warned": false,
+            "expired_at": "2026-03-19",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7142531263": {
+            "partner_id": 7142531263,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-03-18"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6074658394": {
+            "partner_id": 6074658394,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-03-20"
+            ],
+            "partner_message_dates": [
+                "2026-03-20"
+            ],
+            "warned": false,
+            "expired_at": "2026-03-30",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8329990935": {
+            "partner_id": 8329990935,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-04-13"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "955339251": {
+            "partner_id": 955339251,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-03-22",
+                "2026-03-21"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1189340642": {
+            "partner_id": 1189340642,
+            "partner_name": "Th3_Nek1t",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-04-02"
+            ],
+            "partner_message_dates": [
+                "2026-05-07",
+                "2026-04-24",
+                "2026-04-02",
+                "2026-03-25"
+            ],
+            "warned": false,
+            "expired_at": "2026-04-04",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "117813936": {
+            "partner_id": 117813936,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-03-28"
+            ],
+            "partner_message_dates": [
+                "2026-03-29",
+                "2026-03-28"
+            ],
+            "warned": false,
+            "expired_at": "2026-03-30",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "5626404277": {
+            "partner_id": 5626404277,
+            "partner_name": "•-• jkm •-•",
+            "is_active": false,
+            "streak_days": 2,
+            "started_at": "2026-05-10",
+            "my_message_dates": [
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-05",
+                "2026-03-30",
+                "2026-02-26",
+                "2026-02-05",
+                "2026-02-04"
+            ],
+            "partner_message_dates": [
+                "2026-05-11",
+                "2026-05-10",
+                "2026-03-30",
+                "2026-02-05",
+                "2026-02-04"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-13",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "685635003": {
+            "partner_id": 685635003,
+            "partner_name": "User 685635003",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-02-27"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1137300950": {
+            "partner_id": 1137300950,
+            "partner_name": "Агата",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-03-30"
+            ],
+            "partner_message_dates": [
+                "2026-03-30"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-04",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1235084975": {
+            "partner_id": 1235084975,
+            "partner_name": "moonlight 🌙",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-03-30"
+            ],
+            "partner_message_dates": [
+                "2026-05-07",
+                "2026-03-30"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-04",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1958296407": {
+            "partner_id": 1958296407,
+            "partner_name": "Даниил",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-03-30"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1053345691": {
+            "partner_id": 1053345691,
+            "partner_name": "Неистовое любопытство",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-06",
+                "2026-05-05"
+            ],
+            "partner_message_dates": [
+                "2026-03-30"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8548746520": {
+            "partner_id": 8548746520,
+            "partner_name": "NimarkoUpdate | ExteraPlugins",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-14",
+                "2026-05-13",
+                "2026-03-30",
+                "2026-02-11"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7294856510": {
+            "partner_id": 7294856510,
+            "partner_name": "Creepy",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-03-30"
+            ],
+            "partner_message_dates": [
+                "2026-02-27"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "986462667": {
+            "partner_id": 986462667,
+            "partner_name": "😁 😁",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-02-20",
+                "2026-02-05",
+                "2026-02-04"
+            ],
+            "partner_message_dates": [
+                "2026-03-30",
+                "2026-02-04"
+            ],
+            "warned": false,
+            "expired_at": "2026-03-30",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6300274493": {
+            "partner_id": 6300274493,
+            "partner_name": "𝐓𝐢𝐭𝐨𝐯𝐬𝐡𝐢𝐧𝐚",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-03-30"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "2128026253": {
+            "partner_id": 2128026253,
+            "partner_name": "Web kid",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-03-30"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6232746977": {
+            "partner_id": 6232746977,
+            "partner_name": "<\\>#Java | Ksenko",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-03-30"
+            ],
+            "partner_message_dates": [
+                "2026-03-30"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-04",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8459000464": {
+            "partner_id": 8459000464,
+            "partner_name": "Тёма",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-03-30",
+                "2026-02-25"
+            ],
+            "partner_message_dates": [
+                "2026-05-07",
+                "2026-03-30",
+                "2026-02-25",
+                "2026-02-03"
+            ],
+            "warned": false,
+            "expired_at": "2026-03-30",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "5087387651": {
+            "partner_id": 5087387651,
+            "partner_name": "Даниил",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-03-31"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "5314653481": {
+            "partner_id": 5314653481,
+            "partner_name": "Premium Bot",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-06",
+                "2026-03-31",
+                "2026-02-13"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8379846447": {
+            "partner_id": 8379846447,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-03-31"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1168464716": {
+            "partner_id": 1168464716,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-03-31"
+            ],
+            "partner_message_dates": [
+                "2026-04-28",
+                "2026-03-31"
+            ],
+            "warned": false,
+            "expired_at": "2026-04-02",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8165593471": {
+            "partner_id": 8165593471,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-04-03"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6739384040": {
+            "partner_id": 6739384040,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-04-03"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8345277694": {
+            "partner_id": 8345277694,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-04-06"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7911205399": {
+            "partner_id": 7911205399,
+            "partner_name": "⁣﻿‍﻿‌‌﻿‌‌‍﻿‌﻿‌﻿﻿‍‌‍‌‌‌‍﻿﻿﻿‌﻿‌﻿‌‍‌‌﻿﻿﻿﻿﻿﻿‍‌‍‍‌﻿‍‌‌‌‍‍‍﻿‌﻿‌﻿‍﻿‌‍‌‍",
+            "is_active": false,
+            "streak_days": 3,
+            "started_at": "2026-05-05",
+            "my_message_dates": [
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-09",
+                "2026-05-06",
+                "2026-05-05",
+                "2026-05-04",
+                "2026-04-06"
+            ],
+            "partner_message_dates": [
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-09",
+                "2026-05-07",
+                "2026-05-06",
+                "2026-05-05",
+                "2026-05-04",
+                "2026-04-06"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-13",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "5695835310": {
+            "partner_id": 5695835310,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-04-07"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7119004639": {
+            "partner_id": 7119004639,
+            "partner_name": "ярек",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-09",
+                "2026-04-08",
+                "2026-02-20"
+            ],
+            "partner_message_dates": [
+                "2026-05-07",
+                "2026-04-19",
+                "2026-04-08",
+                "2026-02-20"
+            ],
+            "warned": false,
+            "expired_at": "2026-04-08",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "5983138291": {
+            "partner_id": 5983138291,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-04-28",
+                "2026-04-11",
+                "2026-04-09"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8154804175": {
+            "partner_id": 8154804175,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1254805041": {
+            "partner_id": 1254805041,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-04-19",
+                "2026-04-16",
+                "2026-04-11",
+                "2026-02-25"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "2018028577": {
+            "partner_id": 2018028577,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "5226833201": {
+            "partner_id": 5226833201,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-02-05"
+            ],
+            "partner_message_dates": [
+                "2026-02-05"
+            ],
+            "warned": false,
+            "expired_at": "2026-04-14",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1826094262": {
+            "partner_id": 1826094262,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-04-18"
+            ],
+            "partner_message_dates": [
+                "2026-04-18"
+            ],
+            "warned": false,
+            "expired_at": "2026-04-20",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "2062829585": {
+            "partner_id": 2062829585,
+            "partner_name": "Пантограф",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-05",
+                "2026-04-25",
+                "2026-04-20"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "535395656": {
+            "partner_id": 535395656,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-04-21"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "719249525": {
+            "partner_id": 719249525,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-04-26"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7852387522": {
+            "partner_id": 7852387522,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-01"
+            ],
+            "partner_message_dates": [
+                "2026-05-01"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-03",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1417695368": {
+            "partner_id": 1417695368,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-01"
+            ],
+            "partner_message_dates": [
+                "2026-05-01"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-03",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8735347277": {
+            "partner_id": 8735347277,
+            "partner_name": "NimarkoBypass | FREE",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-13",
+                "2026-05-10",
+                "2026-05-09",
+                "2026-05-08",
+                "2026-05-07",
+                "2026-05-05",
+                "2026-05-04",
+                "2026-02-25"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7408910621": {
+            "partner_id": 7408910621,
+            "partner_name": "Аноним",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6380875048": {
+            "partner_id": 6380875048,
+            "partner_name": "𝐒𝟏𝐄𝐑𝐑𝐀 | #SH",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-04"
+            ],
+            "partner_message_dates": [
+                "2026-05-04"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-06",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1780911150": {
+            "partner_id": 1780911150,
+            "partner_name": "никита",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-04"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8791165672": {
+            "partner_id": 8791165672,
+            "partner_name": "Рыбный массив",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-12",
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-09",
+                "2026-05-08",
+                "2026-05-05",
+                "2026-05-04"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "513210031": {
+            "partner_id": 513210031,
+            "partner_name": "Елена",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-04"
+            ],
+            "partner_message_dates": [
+                "2026-05-04"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-06",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1155133655": {
+            "partner_id": 1155133655,
+            "partner_name": "Захар",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-07",
+                "2026-05-04"
+            ],
+            "partner_message_dates": [
+                "2026-05-07",
+                "2026-05-04"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-06",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8687503114": {
+            "partner_id": 8687503114,
+            "partner_name": "✳️",
+            "is_active": false,
+            "streak_days": 3,
+            "started_at": "2026-05-05",
+            "my_message_dates": [
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-09",
+                "2026-05-06",
+                "2026-05-05",
+                "2026-05-04"
+            ],
+            "partner_message_dates": [
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-09",
+                "2026-05-06",
+                "2026-05-05",
+                "2026-05-04"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-13",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "761944927": {
+            "partner_id": 761944927,
+            "partner_name": "ᅠ",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-04"
+            ],
+            "partner_message_dates": [
+                "2026-05-04"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-06",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7354493448": {
+            "partner_id": 7354493448,
+            "partner_name": "User 7354493448",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "828150024": {
+            "partner_id": 828150024,
+            "partner_name": "kvart",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-04"
+            ],
+            "partner_message_dates": [
+                "2026-05-05",
+                "2026-05-04"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-06",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1985737506": {
+            "partner_id": 1985737506,
+            "partner_name": "Кошелёк",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-04",
+                "2026-02-27",
+                "2026-02-12",
+                "2026-02-05"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8317447192": {
+            "partner_id": 8317447192,
+            "partner_name": "User 8317447192",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1600397574": {
+            "partner_id": 1600397574,
+            "partner_name": "⁬☘️",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-07",
+                "2026-02-27"
+            ],
+            "partner_message_dates": [
+                "2026-05-04",
+                "2026-02-27"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-04",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8794270307": {
+            "partner_id": 8794270307,
+            "partner_name": "User 8794270307",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1400713993": {
+            "partner_id": 1400713993,
+            "partner_name": "миндаль",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-14",
+                "2026-05-04"
+            ],
+            "partner_message_dates": [
+                "2026-05-14"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6434596839": {
+            "partner_id": 6434596839,
+            "partner_name": "mireika izdelie",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-04"
+            ],
+            "partner_message_dates": [
+                "2026-05-04"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-06",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6000679608": {
+            "partner_id": 6000679608,
+            "partner_name": "Slavinov\" SGA\"",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-04"
+            ],
+            "partner_message_dates": [
+                "2026-05-04"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-06",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "935723759": {
+            "partner_id": 935723759,
+            "partner_name": "lamóur de ma vie",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-04"
+            ],
+            "partner_message_dates": [
+                "2026-05-07",
+                "2026-05-04"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-06",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7969027648": {
+            "partner_id": 7969027648,
+            "partner_name": "Lafayette",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-04"
+            ],
+            "partner_message_dates": [
+                "2026-05-04"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-06",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6742086221": {
+            "partner_id": 6742086221,
+            "partner_name": "nullweek",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-04"
+            ],
+            "partner_message_dates": [
+                "2026-05-04",
+                "2026-02-28"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-06",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "5598454019": {
+            "partner_id": 5598454019,
+            "partner_name": "Eclipse🌑",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7245357883": {
+            "partner_id": 7245357883,
+            "partner_name": "Исма Закаев",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-04"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "407331153": {
+            "partner_id": 407331153,
+            "partner_name": "Владимир",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-02-26"
+            ],
+            "partner_message_dates": [
+                "2026-05-04",
+                "2026-02-26"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-04",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7921234523": {
+            "partner_id": 7921234523,
+            "partner_name": "Likhach",
+            "is_active": false,
+            "streak_days": 5,
+            "started_at": "2026-05-08",
+            "my_message_dates": [
+                "2026-05-14",
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-09",
+                "2026-05-08",
+                "2026-05-07",
+                "2026-05-06",
+                "2026-05-04",
+                "2026-02-05"
+            ],
+            "partner_message_dates": [
+                "2026-05-14",
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-09",
+                "2026-05-08",
+                "2026-05-07",
+                "2026-02-05"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-13",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1902113959": {
+            "partner_id": 1902113959,
+            "partner_name": "Данила",
+            "is_active": false,
+            "streak_days": 3,
+            "started_at": "2026-05-10",
+            "my_message_dates": [
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-09",
+                "2026-05-07",
+                "2026-05-05",
+                "2026-05-04"
+            ],
+            "partner_message_dates": [
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-09",
+                "2026-05-08",
+                "2026-05-07",
+                "2026-05-05"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-13",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "5113225644": {
+            "partner_id": 5113225644,
+            "partner_name": "๑ 𝐿𝑒𝑜𝑜 ๑",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-08"
+            ],
+            "partner_message_dates": [
+                "2026-05-04"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7842236840": {
+            "partner_id": 7842236840,
+            "partner_name": "User 7842236840",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "966614491": {
+            "partner_id": 966614491,
+            "partner_name": "𝕻𝖆𝖚𝖑 ̷E̷m̷o̷t̷i̷v̷i̷s̷t",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-05"
+            ],
+            "partner_message_dates": [
+                "2026-05-04"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8546770521": {
+            "partner_id": 8546770521,
+            "partner_name": "User 8546770521",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-10"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8602652637": {
+            "partner_id": 8602652637,
+            "partner_name": "User 8602652637",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8485797652": {
+            "partner_id": 8485797652,
+            "partner_name": "helveta",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-05"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8241661012": {
+            "partner_id": 8241661012,
+            "partner_name": "User 8241661012",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-05"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1658684708": {
+            "partner_id": 1658684708,
+            "partner_name": "Евгений",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-05"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "389990540": {
+            "partner_id": 389990540,
+            "partner_name": "Костя Т",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-05"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1013304307": {
+            "partner_id": 1013304307,
+            "partner_name": "Миша",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-05"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6544352181": {
+            "partner_id": 6544352181,
+            "partner_name": "𝕾𝖀𝕶𝕬𝕭𝕷 𝕭𝕷𝕬𝕿𝕭 (курсед) Больше чем я видел в кошельке",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-05"
+            ],
+            "partner_message_dates": [
+                "2026-05-05"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-07",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6731077067": {
+            "partner_id": 6731077067,
+            "partner_name": "ls zayrex4ch | grep skillissue",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-05"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8018784830": {
+            "partner_id": 8018784830,
+            "partner_name": "пр",
+            "is_active": false,
+            "streak_days": 2,
+            "started_at": "2026-05-06",
+            "my_message_dates": [
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-06",
+                "2026-05-05"
+            ],
+            "partner_message_dates": [
+                "2026-05-12",
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-06",
+                "2026-05-05"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-13",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8393570948": {
+            "partner_id": 8393570948,
+            "partner_name": "ㅤ",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-05"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7295386004": {
+            "partner_id": 7295386004,
+            "partner_name": "Алексей Чесноков",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6605953800": {
+            "partner_id": 6605953800,
+            "partner_name": "Thaumiel",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-05"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1027756152": {
+            "partner_id": 1027756152,
+            "partner_name": "#Turtle",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-13"
+            ],
+            "partner_message_dates": [
+                "2026-05-13",
+                "2026-05-05"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8687615759": {
+            "partner_id": 8687615759,
+            "partner_name": "бог буста райзен",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-09",
+                "2026-05-05"
+            ],
+            "partner_message_dates": [
+                "2026-05-05"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-07",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8323960409": {
+            "partner_id": 8323960409,
+            "partner_name": "Node Host",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-13",
+                "2026-05-10",
+                "2026-05-06",
+                "2026-05-05"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6658882646": {
+            "partner_id": 6658882646,
+            "partner_name": "Node Host Support",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-05"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8759014507": {
+            "partner_id": 8759014507,
+            "partner_name": "AIMetroApiKeys",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-09",
+                "2026-05-05"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8330669536": {
+            "partner_id": 8330669536,
+            "partner_name": "аеродоZтавка чайного гриба в Саратове",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-05"
+            ],
+            "partner_message_dates": [
+                "2026-05-05"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-07",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1224985305": {
+            "partner_id": 1224985305,
+            "partner_name": "musixinfluencer",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-10",
+                "2026-05-05"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "707685829": {
+            "partner_id": 707685829,
+            "partner_name": "The Doctor What",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-12",
+                "2026-05-11",
+                "2026-05-06",
+                "2026-05-05"
+            ],
+            "partner_message_dates": [
+                "2026-05-12",
+                "2026-05-06"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-08",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8513197206": {
+            "partner_id": 8513197206,
+            "partner_name": "Chibaku tensei",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-05"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1221231630": {
+            "partner_id": 1221231630,
+            "partner_name": ".",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-05"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7523359507": {
+            "partner_id": 7523359507,
+            "partner_name": "ANGULSIN.com",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "925980790": {
+            "partner_id": 925980790,
+            "partner_name": "del'fi Volgo🐬",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-05"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1198828792": {
+            "partner_id": 1198828792,
+            "partner_name": "Mai",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-05"
+            ],
+            "partner_message_dates": [
+                "2026-05-05"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-07",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "2134436637": {
+            "partner_id": 2134436637,
+            "partner_name": "Богдан",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "660309226": {
+            "partner_id": 660309226,
+            "partner_name": "Анонимный чат Телеграма",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-06"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8619543319": {
+            "partner_id": 8619543319,
+            "partner_name": "dobry",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7467107116": {
+            "partner_id": 7467107116,
+            "partner_name": "STEFF BOMBER | Розыгрыши | Все страны",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-02-14",
+                "2026-02-12",
+                "2026-02-04"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "260028066": {
+            "partner_id": 260028066,
+            "partner_name": "Мама",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-13"
+            ],
+            "partner_message_dates": [
+                "2026-05-10",
+                "2026-02-14",
+                "2026-02-13",
+                "2026-02-03"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "859718152": {
+            "partner_id": 859718152,
+            "partner_name": "тема",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-06"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8775396786": {
+            "partner_id": 8775396786,
+            "partner_name": "Pascal Stars",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-09",
+                "2026-05-08",
+                "2026-05-06"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6827707717": {
+            "partner_id": 6827707717,
+            "partner_name": "QWINS.co — servers",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6259843500": {
+            "partner_id": 6259843500,
+            "partner_name": "User 6259843500",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6885575976": {
+            "partner_id": 6885575976,
+            "partner_name": "Noizu",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-06"
+            ],
+            "partner_message_dates": [
+                "2026-05-06"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-08",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1676876864": {
+            "partner_id": 1676876864,
+            "partner_name": "egor",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-08"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "5501846718": {
+            "partner_id": 5501846718,
+            "partner_name": "ᛖᛋᚷᚤᚳⰓᛁᛩ",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-06"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8545037411": {
+            "partner_id": 8545037411,
+            "partner_name": "TVOISLIVER.RU | УТЕЧКИ КУРСОВ ЕГЭ",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "5027077663": {
+            "partner_id": 5027077663,
+            "partner_name": "ㅤ",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-06"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1903915384": {
+            "partner_id": 1903915384,
+            "partner_name": "Виктория Редина",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6028221945": {
+            "partner_id": 6028221945,
+            "partner_name": "КОТ",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "5780991758": {
+            "partner_id": 5780991758,
+            "partner_name": "#︎PocoF5 Main #RN10sSecond",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-09"
+            ],
+            "partner_message_dates": [
+                "2026-05-09",
+                "2026-05-08",
+                "2026-05-07"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-11",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1392733111": {
+            "partner_id": 1392733111,
+            "partner_name": "wq",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-07"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "656014392": {
+            "partner_id": 656014392,
+            "partner_name": "atyk33d",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-07"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "893186571": {
+            "partner_id": 893186571,
+            "partner_name": "dag",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-09"
+            ],
+            "partner_message_dates": [
+                "2026-05-09"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-11",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "884939268": {
+            "partner_id": 884939268,
+            "partner_name": "Арман",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8254817783": {
+            "partner_id": 8254817783,
+            "partner_name": "EndCore Cloud",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6379786309": {
+            "partner_id": 6379786309,
+            "partner_name": "ㅤㅤㅤㅤ",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-07"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6584133385": {
+            "partner_id": 6584133385,
+            "partner_name": "Диланчек",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-07"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8664451172": {
+            "partner_id": 8664451172,
+            "partner_name": "asdfasdfasd",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-07"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "845392150": {
+            "partner_id": 845392150,
+            "partner_name": "Marina",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-07"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1188795483": {
+            "partner_id": 1188795483,
+            "partner_name": "First Last",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-07"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1128559947": {
+            "partner_id": 1128559947,
+            "partner_name": "Светлана",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-07"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8023323030": {
+            "partner_id": 8023323030,
+            "partner_name": "Marla Shizis",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-07"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6455492391": {
+            "partner_id": 6455492391,
+            "partner_name": "Олег",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-07"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1539152943": {
+            "partner_id": 1539152943,
+            "partner_name": "-",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1766855647": {
+            "partner_id": 1766855647,
+            "partner_name": "𓆩⛧♡𖣂¹³‘'‘'‘'³⁷𖣂♡⛧𓆪",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-07"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1635556252": {
+            "partner_id": 1635556252,
+            "partner_name": "Publikzz",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "5302412142": {
+            "partner_id": 5302412142,
+            "partner_name": "Alex: Belder_exe",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6170101846": {
+            "partner_id": 6170101846,
+            "partner_name": "ᅠ ᅠ",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-07"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7613777058": {
+            "partner_id": 7613777058,
+            "partner_name": "Loomie",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "2117377311": {
+            "partner_id": 2117377311,
+            "partner_name": "LADNO",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-07"
+            ],
+            "partner_message_dates": [
+                "2026-05-10"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6183937076": {
+            "partner_id": 6183937076,
+            "partner_name": "Chocoladochk@ 61",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-07"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "409328383": {
+            "partner_id": 409328383,
+            "partner_name": "Arslanhan Abu Salim",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-07"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1824224788": {
+            "partner_id": 1824224788,
+            "partner_name": "👨‍🦽ㅤ ㅤ ㅤ🚗ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ🚓ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-07"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7549795560": {
+            "partner_id": 7549795560,
+            "partner_name": "Кыр сосичка :))",
+            "is_active": false,
+            "streak_days": 5,
+            "started_at": "2026-05-07",
+            "my_message_dates": [
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-09",
+                "2026-05-08",
+                "2026-05-07",
+                "2026-02-26",
+                "2026-02-06",
+                "2026-02-05",
+                "2026-02-04",
+                "2026-02-03",
+                "2026-02-02"
+            ],
+            "partner_message_dates": [
+                "2026-05-11",
+                "2026-05-10",
+                "2026-05-09",
+                "2026-05-08",
+                "2026-05-07",
+                "2026-02-13",
+                "2026-02-11",
+                "2026-02-06",
+                "2026-02-05",
+                "2026-02-04",
+                "2026-02-03",
+                "2026-02-02",
+                "2026-02-01",
+                "2026-01-31"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-13",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "450352800": {
+            "partner_id": 450352800,
+            "partner_name": "7.42",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-02-26",
+                "2026-02-05"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1374363241": {
+            "partner_id": 1374363241,
+            "partner_name": "в тихом омуте 笑",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-07"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7946580214": {
+            "partner_id": 7946580214,
+            "partner_name": "S Nikolaevich",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-02-26"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1040704814": {
+            "partner_id": 1040704814,
+            "partner_name": "",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "751185754": {
+            "partner_id": 751185754,
+            "partner_name": "ryjenka",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7034457736": {
+            "partner_id": 7034457736,
+            "partner_name": "funny cave",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-10",
+                "2026-05-07"
+            ],
+            "partner_message_dates": [
+                "2026-05-07"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-09",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1102796543": {
+            "partner_id": 1102796543,
+            "partner_name": "Павел Чернышёв",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-08",
+                "2026-05-07"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "938487742": {
+            "partner_id": 938487742,
+            "partner_name": "Alestro",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-08"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6232371333": {
+            "partner_id": 6232371333,
+            "partner_name": "FARIN",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-08"
+            ],
+            "partner_message_dates": [
+                "2026-05-08"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-10",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7497030191": {
+            "partner_id": 7497030191,
+            "partner_name": "EtherVPN",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "609517172": {
+            "partner_id": 609517172,
+            "partner_name": "Rose",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-08",
+                "2026-02-02"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8559985462": {
+            "partner_id": 8559985462,
+            "partner_name": "User 8559985462",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-13"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "385482284": {
+            "partner_id": 385482284,
+            "partner_name": "FULLnoobs",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "5957484105": {
+            "partner_id": 5957484105,
+            "partner_name": "Уведомления | Новости Краснодара и Края",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7081664513": {
+            "partner_id": 7081664513,
+            "partner_name": "Miro",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-08"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "5646143441": {
+            "partner_id": 5646143441,
+            "partner_name": "unn::1otl",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-08"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1210403110": {
+            "partner_id": 1210403110,
+            "partner_name": "soulq",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-08"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8463102705": {
+            "partner_id": 8463102705,
+            "partner_name": "kviki",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-08"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8538370721": {
+            "partner_id": 8538370721,
+            "partner_name": "Nimarko • Hysteria2 Bypass",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "5108710244": {
+            "partner_id": 5108710244,
+            "partner_name": "Арбузный Кадзи 𓆝 𓆟 𓆞 𓆝 𓆟",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7897490200": {
+            "partner_id": 7897490200,
+            "partner_name": "Ауграмм / Аюграмм (Ayugramm)",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1585790308": {
+            "partner_id": 1585790308,
+            "partner_name": "Бабушка Валя",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-09"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1162890817": {
+            "partner_id": 1162890817,
+            "partner_name": "Marina Kolobova",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7196093066": {
+            "partner_id": 7196093066,
+            "partner_name": "🎁 Get Gifts",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-09"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "758107903": {
+            "partner_id": 758107903,
+            "partner_name": "Григорий",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8413162137": {
+            "partner_id": 8413162137,
+            "partner_name": "Sxete",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-09"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8194057510": {
+            "partner_id": 8194057510,
+            "partner_name": "Андрей",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1919212596": {
+            "partner_id": 1919212596,
+            "partner_name": "𝒟𝒶𝓇𝓀𝒶𝓃𝑔𝑒𝓁 🌑 #lovespring #holy",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-09"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "5036912590": {
+            "partner_id": 5036912590,
+            "partner_name": "ᅠ",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-09"
+            ],
+            "partner_message_dates": [
+                "2026-05-09"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-11",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1440717749": {
+            "partner_id": 1440717749,
+            "partner_name": "Тротил Тротиловичѣ",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-09"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6194193940": {
+            "partner_id": 6194193940,
+            "partner_name": "Bosinn",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-09"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7923022244": {
+            "partner_id": 7923022244,
+            "partner_name": "MHost Servers",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-13"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8539600165": {
+            "partner_id": 8539600165,
+            "partner_name": "龍",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-10"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1646209878": {
+            "partner_id": 1646209878,
+            "partner_name": "vvakeup",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-11",
+                "2026-05-10"
+            ],
+            "partner_message_dates": [
+                "2026-05-11"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-13",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1901653917": {
+            "partner_id": 1901653917,
+            "partner_name": "ㅤ",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-10"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8355109983": {
+            "partner_id": 8355109983,
+            "partner_name": "No Big Brother | VPN",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8301363099": {
+            "partner_id": 8301363099,
+            "partner_name": "Клауд пахать",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-10"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "686500920": {
+            "partner_id": 686500920,
+            "partner_name": "Султан Абу Мухаммад",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6689547819": {
+            "partner_id": 6689547819,
+            "partner_name": "эрдэни",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-11"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "519523433": {
+            "partner_id": 519523433,
+            "partner_name": "Lis4113",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1337854546": {
+            "partner_id": 1337854546,
+            "partner_name": "Пулемёт из кошачьего калла",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-11",
+                "2026-02-27"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "5845573548": {
+            "partner_id": 5845573548,
+            "partner_name": "𝙖𝙜𝙧𝙭𝙨𝙨𝙭𝙧 | ⁸⁸⁷",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-12"
+            ],
+            "partner_message_dates": [
+                "2026-05-12"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-14",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1980087820": {
+            "partner_id": 1980087820,
+            "partner_name": "The name sold",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-12"
+            ],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "5726047585": {
+            "partner_id": 5726047585,
+            "partner_name": "Артур",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-13"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "8045800673": {
+            "partner_id": 8045800673,
+            "partner_name": "wh1t3w0lff",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-13"
+            ],
+            "partner_message_dates": [
+                "2026-05-13"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1461512362": {
+            "partner_id": 1461512362,
+            "partner_name": "N1kEnd",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-13",
+                "2026-02-04"
+            ],
+            "partner_message_dates": [
+                "2026-05-13",
+                "2026-02-04"
+            ],
+            "warned": false,
+            "expired_at": "2026-05-13",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6178355270": {
+            "partner_id": 6178355270,
+            "partner_name": "Ads Markdown Bot",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-02-27",
+                "2026-02-04"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "7692330181": {
+            "partner_id": 7692330181,
+            "partner_name": "Shinomiya Bot",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "567963450": {
+            "partner_id": 567963450,
+            "partner_name": "User 567963450",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "1349733509": {
+            "partner_id": 1349733509,
+            "partner_name": "Никита С",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6282777165": {
+            "partner_id": 6282777165,
+            "partner_name": "🖥 Wuldi Hosting | WORK 24/7",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "919637379": {
+            "partner_id": 919637379,
+            "partner_name": "vacumka",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [
+                "2026-05-14"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "6668685211": {
+            "partner_id": 6668685211,
+            "partner_name": "Nktta",
+            "is_active": false,
+            "streak_days": 1,
+            "started_at": "",
+            "my_message_dates": [
+                "2026-05-14"
+            ],
+            "partner_message_dates": [
+                "2026-05-14"
+            ],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        },
+        "5783730143": {
+            "partner_id": 5783730143,
+            "partner_name": "саша крипер",
+            "is_active": false,
+            "streak_days": 0,
+            "started_at": "",
+            "my_message_dates": [],
+            "partner_message_dates": [],
+            "warned": false,
+            "expired_at": "",
+            "can_restore": false,
+            "restore_count": 0,
+            "last_restore_month": ""
+        }
+    }
+}
