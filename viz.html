@@ -19,15 +19,14 @@
   .streak-card.active::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: linear-gradient(90deg, #ff6b2b, #ff9a5c); }
   .streak-card.expired { opacity: 0.55; }
   .streak-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 14px; }
-  .streak-name { font-size: 16px; font-weight: 600; color: #fff; }
-  .streak-badge { font-size: 11px; font-weight: 600; padding: 3px 8px; border-radius: 20px; }
+  .streak-name { font-size: 16px; font-weight: 600; color: #fff; max-width: 65%; word-break: break-word; }
+  .streak-badge { font-size: 11px; font-weight: 600; padding: 3px 8px; border-radius: 20px; white-space: nowrap; }
   .badge-active { background: #ff6b2b22; color: #ff8c55; border: 1px solid #ff6b2b44; }
   .badge-expired { background: #ffffff0a; color: #555; border: 1px solid #2a2a35; }
   .streak-days { font-size: 36px; font-weight: 800; color: #ff6b2b; line-height: 1; margin-bottom: 4px; }
   .streak-days-label { font-size: 12px; color: #555; margin-bottom: 14px; }
   .streak-meta { font-size: 12px; color: #444; }
   .streak-meta span { color: #666; }
-  .flame { font-size: 20px; }
 
   /* CALENDAR DOTS */
   .cal-row { display: flex; gap: 3px; flex-wrap: wrap; margin-top: 10px; }
@@ -39,17 +38,25 @@
   /* API */
   .api-group { margin-bottom: 20px; }
   .api-group-name { font-size: 13px; font-weight: 600; color: #5b8fff; margin-bottom: 8px; }
-  .api-item { background: #1a1a22; border-radius: 10px; padding: 12px 16px; border: 1px solid #2a2a35; margin-bottom: 6px; display: flex; align-items: center; gap: 12px; }
-  .method { font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 4px; min-width: 48px; text-align: center; }
+  .api-item { background: #1a1a22; border-radius: 10px; padding: 12px 16px; border: 1px solid #2a2a35; margin-bottom: 6px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+  .method { font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 4px; min-width: 48px; text-align: center; flex-shrink: 0; }
   .GET { background: #22c55e22; color: #4ade80; border: 1px solid #22c55e33; }
   .POST { background: #3b82f622; color: #60a5fa; border: 1px solid #3b82f633; }
   .DELETE { background: #ef444422; color: #f87171; border: 1px solid #ef444433; }
-  .api-path { font-size: 13px; color: #ccc; font-family: 'SF Mono', monospace; }
-  .api-name { font-size: 12px; color: #555; margin-left: auto; }
+  .api-path { font-size: 12px; color: #ccc; font-family: 'SF Mono', monospace; word-break: break-all; flex: 1; min-width: 0; }
+  .api-name { font-size: 12px; color: #555; margin-left: auto; white-space: nowrap; }
 
-  .legend { display: flex; gap: 16px; margin-top: 8px; }
+  .legend { display: flex; gap: 16px; margin-top: 8px; flex-wrap: wrap; }
   .legend-item { display: flex; align-items: center; gap: 5px; font-size: 11px; color: #555; }
-  .legend-dot { width: 8px; height: 8px; border-radius: 2px; }
+  .legend-dot { width: 8px; height: 8px; border-radius: 2px; flex-shrink: 0; }
+
+  @media (max-width: 600px) {
+    body { padding: 20px 16px; }
+    h1 { font-size: 22px; }
+    .streaks-grid { grid-template-columns: 1fr; }
+    .api-name { display: none; }
+    .streak-days { font-size: 30px; }
+  }
 </style>
 </head>
 <body>
